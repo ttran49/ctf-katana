@@ -70,6 +70,9 @@ Steganography
 * [`steg_brute.py`](https://github.com/Va5c0/Steghide-Brute-Force-Tool)
 
 	This is similar to `stegcracker` above.
+* [Least Significant Bit algorithm for image steganography](http://stylesuxx.github.io/steganography/)
+	Least Significant Bit algorithm for image steganography. Decoder online
+	http://stylesuxx.github.io/steganography/
 
 * [`openstego`][OpenStego]
 
